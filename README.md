@@ -7,4 +7,4 @@ Water Collection and Recirculation System at the Tepla Gora Eco Centre
 [Story](https://github.com/maxzalevski/offgrid/issues/2)
 
 Solar oven in the ecovillage My Ukrainian dream
-Story
+[Story](https://github.com/maxzalevski/offgrid/issues/6)
