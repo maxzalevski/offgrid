@@ -11,3 +11,6 @@ Solar oven in the ecovillage My Ukrainian dream
 
 Roundycubes are a low-tech innovation from recycled tires. Ecovillage Vasylivka
 [Story](https://github.com/maxzalevski/offgrid/issues/7)
+
+Solar invertor production in ecovillage SontseSvit
+Story
