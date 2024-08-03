@@ -14,3 +14,6 @@ Roundycubes are a low-tech innovation from recycled tires. Ecovillage Vasylivka
 
 Solar invertor production in ecovillage SontseSvit
 Story
+
+Ukrainian Yurts: An Innovation in Natural Eco-Construction
+[Story](https://github.com/maxzalevski/offgrid/issues/8)
